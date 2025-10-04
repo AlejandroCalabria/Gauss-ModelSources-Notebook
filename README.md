@@ -1,2 +1,2 @@
 # Gauss-ModelSources-Notebook
-Projeto de Machine Learning para análise de exoplanetas: geração de curvas de luz a partir de parâmetros orbitais e classificação usando CNNs, complementado por XGBoost com dados tabulares do catálogo Kepler.
+Machine Learning project for exoplanet analysis: generation of light curves from orbital parameters and classification using CNNs, complemented by XGBoost with tabular data from the Kepler catalog.
